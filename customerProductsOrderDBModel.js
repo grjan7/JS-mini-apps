@@ -136,4 +136,3 @@ var order4 = new Orders(1, 4, 2);
 var order5 = new Orders(1, 5, 3);
 
 console.log(order1.getCustDetails() + '\n\n' + order1.getProductDetails());
-//cust1.getOrders();
